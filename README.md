@@ -7,7 +7,7 @@
 ## 👩‍💼 About
 
 **Pallavi Ahuja** | Product Manager & Project Manager  
-📧 pallavixahuja007@gmail.com  
+📧 pallaviahuja007@gmail.com  
 🔗 [linkedin.com/in/pallaviahuja](https://linkedin.com/in/pallaviahuja)  
 
 Product Manager with 9 years of experience delivering B2B and B2C digital products across FinTech, payments, lending, and nonprofit SaaS. This repository contains full PRDs authored across four organisations — demonstrating end-to-end product thinking from problem definition through roadmap, user stories, metrics, and risk management.
