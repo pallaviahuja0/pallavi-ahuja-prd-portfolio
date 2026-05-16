@@ -1,4 +1,4 @@
-# 📋 Product Requirements Documents (PRDs) — Pallavi Ahuja
+# Product Requirements Documents (PRDs) — Pallavi Ahuja
 
 > A portfolio of Product Requirements Documents authored across 9 years of Product and Project Management experience in FinTech, SaaS, and nonprofit technology.
 
